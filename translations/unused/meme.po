@@ -19,8 +19,23 @@ msgstr "Level fax"
 msgid "All your medals are here."
 msgstr "Shinies all accounted for"
 
+msgid "Apprentice"
+msgstr "n00b"
+
+msgid "Cadet"
+msgstr "Casual"
+
 msgid "Career"
 msgstr "Skill-o-meter"
+
+msgid "Commander"
+msgstr "Gamer"
+
+msgid "Confirm email"
+msgstr "Do it again"
+
+msgid "Confirm email:"
+msgstr "Do it again:"
 
 msgid "Connect to..."
 msgstr "Mooch from..."
@@ -43,6 +58,9 @@ msgstr "High but cooler"
 msgid "Directed by %s"
 msgstr "Meme CEO is %s"
 
+msgid "Emails do not match!"
+msgstr "Emails swiped left"
+
 msgid "Error reading manifest"
 msgstr "man how is it even possible to mess up the manifest"
 
@@ -60,6 +78,9 @@ msgstr "No room sry"
 
 msgid "High (Dark)"
 msgstr "Dank elite"
+
+msgid "High Scores"
+msgstr "Big numbers"
 
 msgid "Information"
 msgstr "kool info"
@@ -121,6 +142,9 @@ msgstr "Confirm your Sign-in lifeline"
 msgid "Sign-in with \"%s\"?"
 msgstr "Enter the dungeon using \"%s\"?"
 
+msgid "Speed Runs"
+msgstr "Runs (Haste II)"
+
 msgid "The background is expensive to compute"
 msgstr "90% of budget is in the background"
 
@@ -159,6 +183,9 @@ msgstr "Bruh you're already here"
 
 msgid "You can finally code your own levels!"
 msgstr "You can now make... some other levels"
+
+msgid "Your verified medals have been downloaded."
+msgstr "Your medals were greatly successfully yoinked!"
 
 msgid "by %s"
 msgstr "brought to you by %s"

@@ -16,11 +16,29 @@ msgstr "ლეველების შესახებ"
 msgid "All your medals are here."
 msgstr "ყველა თქვენი მედალი აქ არის."
 
+msgid "Apprentice"
+msgstr "შეგირდი"
+
+msgid "Cadet"
+msgstr "იუნკერი"
+
+msgid "Commander"
+msgstr "კომანდიტური"
+
+msgid "Confirm email"
+msgstr "Დაადასტურეთ ელ - ფოსტა"
+
+msgid "Confirm email:"
+msgstr "Დაადასტურეთ ელ - ფოსტა:"
+
 msgid "Creating room"
 msgstr "ოთახის შექმნა"
 
 msgid "Directed by %s"
 msgstr "Რეჟისორია %s"
+
+msgid "Emails do not match!"
+msgstr "ელფოსტა არ ემთხვევა!"
 
 msgid "Error reading manifest"
 msgstr "შეცდომა მანიფესტის წაკითხვისას"
@@ -30,6 +48,12 @@ msgstr "ექსპერიმენტული"
 
 msgid "Experimental levels"
 msgstr "ექსპერიმენტული ლეველები"
+
+msgid "Failed to set up comments"
+msgstr "ვერ მოხერხდა კომენტარების დამატება"
+
+msgid "High Scores"
+msgstr "მაღალი ქულები"
 
 msgid "Information"
 msgstr "ინფორმაცია"
@@ -42,6 +66,9 @@ msgstr "მეტი ინფორმაცია github.com/jyaif/ppl-utils"
 
 msgid "Score: %s"
 msgstr "ქულა: %s"
+
+msgid "Speed Runs"
+msgstr "სიჩქარის გაშვება"
 
 msgid "UI colors"
 msgstr "UI ფერები"
@@ -63,4 +90,7 @@ msgstr "ულტრა დაბალი 8x"
 
 msgid "Unknown level"
 msgstr "უცნობი ლეველი"
+
+msgid "Your verified medals have been downloaded."
+msgstr "შენი დამოწმებული თასები ჩამოტვირთულია"
 

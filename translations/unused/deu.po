@@ -22,6 +22,12 @@ msgstr "Alle deine Medaillen findest du hier"
 msgid "Career"
 msgstr "Karrier"
 
+msgid "Confirm email"
+msgstr "Email bestätigen"
+
+msgid "Confirm email:"
+msgstr "Email bestätigen:"
+
 msgid "Connect to..."
 msgstr "Verbindung zu..."
 
@@ -43,6 +49,9 @@ msgstr "Dunkel"
 msgid "Directed by %s"
 msgstr "Von %s"
 
+msgid "Emails do not match!"
+msgstr "Emails stimmen nich miteinander!"
+
 msgid "Error reading manifest"
 msgstr "Fehler während des Lesens des Manifests"
 
@@ -60,6 +69,9 @@ msgstr "Partie is voll"
 
 msgid "High (Dark)"
 msgstr "Hoch (Dunkel)"
+
+msgid "High Scores"
+msgstr "Highscores"
 
 msgid "Joysticks"
 msgstr "Joysticks"
@@ -120,6 +132,9 @@ msgstr "Anmeldung bestätigt"
 
 msgid "Sign-in with \"%s\"?"
 msgstr "Sich mit \"%s\" anmelden"
+
+msgid "Speed Runs"
+msgstr "Speed runs"
 
 msgid "The background is expensive to compute"
 msgstr "Dreiecke überall!"

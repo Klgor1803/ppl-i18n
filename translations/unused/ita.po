@@ -19,8 +19,23 @@ msgstr "A proposito dei livelli"
 msgid "All your medals are here."
 msgstr "Tutte le tue medaglie sono arrivate."
 
+msgid "Apprentice"
+msgstr "Apprendista"
+
+msgid "Cadet"
+msgstr "Cadetto"
+
 msgid "Career"
 msgstr "Carriera"
+
+msgid "Commander"
+msgstr "Comandante"
+
+msgid "Confirm email"
+msgstr "Conferma l'email"
+
+msgid "Confirm email:"
+msgstr "Conferma l'email:"
 
 msgid "Connect to..."
 msgstr "Connettiti a..."
@@ -43,6 +58,9 @@ msgstr "Alta scura"
 msgid "Directed by %s"
 msgstr "Diretto da %s"
 
+msgid "Emails do not match!"
+msgstr "Le email non coincidono!"
+
 msgid "Error reading manifest"
 msgstr "Errore nella lettura del manifest"
 
@@ -55,11 +73,17 @@ msgstr "Livelli Sperimentali"
 msgid "Failed to parse server response"
 msgstr "Elaborazione della risposta del server fallita"
 
+msgid "Failed to set up comments"
+msgstr "Impostazione dei commenti fallita"
+
 msgid "Game is full"
 msgstr "Il gioco è pieno"
 
 msgid "High (Dark)"
 msgstr "Alta (Scura)"
+
+msgid "High Scores"
+msgstr "Punteggi migliori"
 
 msgid "Information"
 msgstr "Informazioni"
@@ -121,6 +145,9 @@ msgstr "Conferma di accesso"
 msgid "Sign-in with \"%s\"?"
 msgstr "Accedere con \"%s\"?"
 
+msgid "Speed Runs"
+msgstr "Speed Run"
+
 msgid "The background is expensive to compute"
 msgstr "Lo sfondo è costoso da elaborare"
 
@@ -159,6 +186,9 @@ msgstr "Sei già nel gioco!"
 
 msgid "You can finally code your own levels!"
 msgstr "Finalmente puoi programmare i tuoi livelli personali!"
+
+msgid "Your verified medals have been downloaded."
+msgstr "Le tue medaglie verificate sono state scaricate."
 
 msgid "by %s"
 msgstr "di %s"

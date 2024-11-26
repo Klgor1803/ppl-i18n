@@ -19,6 +19,12 @@ msgstr "Toate medaliile tale sunt aici."
 msgid "Career"
 msgstr "Carieră"
 
+msgid "Confirm email"
+msgstr "Confirmă-ți emailul"
+
+msgid "Confirm email:"
+msgstr "Confirmă-ți emailul:"
+
 msgid "Creating room"
 msgstr "Se crează camera"
 
@@ -27,6 +33,9 @@ msgstr "Mare Întunecat"
 
 msgid "Directed by %s"
 msgstr "Creat de %s"
+
+msgid "Emails do not match!"
+msgstr "Email-urile nu se potrivesc!"
 
 msgid "Error reading manifest"
 msgstr "Eroare citind manifest-ul"
@@ -42,6 +51,9 @@ msgstr "Nu s-a putut folosi răspunsul serverului"
 
 msgid "High (Dark)"
 msgstr "Mare (Întunecat)"
+
+msgid "High Scores"
+msgstr "Scoruri Mari"
 
 msgid "Joysticks"
 msgstr "Joystick-uri"
@@ -81,6 +93,9 @@ msgstr "Renderer: %s"
 
 msgid "Score: %s"
 msgstr "Scor: %s"
+
+msgid "Speed Runs"
+msgstr "Speedrun-uri"
 
 msgid "The background is expensive to compute"
 msgstr "Fundalul este scump de arătat"

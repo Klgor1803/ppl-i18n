@@ -16,6 +16,12 @@ msgstr "レベルについて"
 msgid "All your medals are here."
 msgstr "メダル ジョウホウガ ホゾン サレマシタ"
 
+msgid "Confirm email"
+msgstr "メール再入力"
+
+msgid "Confirm email:"
+msgstr "メール再入力:"
+
 msgid "Creating room"
 msgstr "ルーム サクセイ"
 
@@ -28,6 +34,9 @@ msgstr "カスタムレベル"
 msgid "Custom levels?!"
 msgstr "カスタムレベル！？"
 
+msgid "Emails do not match!"
+msgstr "Email イッチ シマセン"
+
 msgid "Error reading manifest"
 msgstr "マニフェスト読み込み失敗"
 
@@ -39,6 +48,9 @@ msgstr "実験的なレベル"
 
 msgid "High (Dark)"
 msgstr "キレイ (ダーク)"
+
+msgid "High Scores"
+msgstr "高得点"
 
 msgid "Joysticks"
 msgstr "ジョイスティック"
@@ -81,6 +93,9 @@ msgstr "スコア: %s"
 
 msgid "Select level"
 msgstr "レベル センタク"
+
+msgid "Speed Runs"
+msgstr "スピードラン"
 
 msgid "UI colors"
 msgstr "UI色"

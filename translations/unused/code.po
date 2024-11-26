@@ -16,11 +16,29 @@ msgstr "AbtLevels.UI"
 msgid "All your medals are here."
 msgstr "Sync() returned: \"All your medals are here.\""
 
+msgid "Apprentice"
+msgstr "Python"
+
+msgid "Cadet"
+msgstr "C++"
+
+msgid "Commander"
+msgstr "Assembly"
+
+msgid "Confirm email"
+msgstr "Email.Confirm"
+
+msgid "Confirm email:"
+msgstr "Email.Confirm ="
+
 msgid "Creating room"
 msgstr "Room.Creating = true"
 
 msgid "Directed by %s"
 msgstr "Game.Director = %s"
+
+msgid "Emails do not match!"
+msgstr "Email1 != Email2"
 
 msgid "Error reading manifest"
 msgstr "Game.Error = \"Failed reading manifest\""
@@ -31,8 +49,14 @@ msgstr "Game.Experimental"
 msgid "Experimental levels"
 msgstr "Game.Experimental.levels"
 
+msgid "Failed to set up comments"
+msgstr "Game.Error = \"Failed to set up comments\""
+
 msgid "High (Dark)"
 msgstr "DarkTheme(INT_MAX);"
+
+msgid "High Scores"
+msgstr "HighScores"
 
 msgid "Information"
 msgstr "Level.Info.UI"
@@ -58,6 +82,9 @@ msgstr "OnlineProfile();"
 msgid "Score: %s"
 msgstr "levelTry.Score = %s"
 
+msgid "Speed Runs"
+msgstr "SpeedRuns"
+
 msgid "UI colors"
 msgstr "Game.UI.Colors"
 
@@ -78,6 +105,9 @@ msgstr "UltraLowX(8);"
 
 msgid "Unknown level"
 msgstr "UnknownLevel"
+
+msgid "Your verified medals have been downloaded."
+msgstr "Sync() returned: \"Your verified medals have been downloaded.\""
 
 msgid "by %s"
 msgstr "level.author = %s"

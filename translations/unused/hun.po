@@ -13,14 +13,38 @@ msgstr "#ffffff00Hivatalos#ffffffffffffffffff szinteket én (JF) építettem, é
 msgid "About the levels"
 msgstr "A szintekről"
 
+msgid "Apprentice"
+msgstr "Tanonc"
+
+msgid "Cadet"
+msgstr "Kadét"
+
+msgid "Commander"
+msgstr "Parancsnok"
+
+msgid "Confirm email"
+msgstr "Email megerősítése"
+
+msgid "Confirm email:"
+msgstr "Email megerősítése"
+
 msgid "Creating room"
 msgstr "Szoba készítése"
+
+msgid "Emails do not match!"
+msgstr "Az email nem egyezik"
 
 msgid "Experimental"
 msgstr "Kísérleti"
 
 msgid "Experimental levels"
 msgstr "Kísérleti szintek"
+
+msgid "Failed to set up comments"
+msgstr "Nem sikerült beállítani a megjegyzéseket"
+
+msgid "High Scores"
+msgstr "Magas Pontszámok"
 
 msgid "Information"
 msgstr "Információ"
@@ -30,6 +54,9 @@ msgstr "Joystickok"
 
 msgid "More info on github.com/jyaif/ppl-utils"
 msgstr "Több információ: github.com/jyaif/ppl-utils"
+
+msgid "Speed Runs"
+msgstr "Speed Runok"
 
 msgid "UI colors"
 msgstr "UI színek"
@@ -51,4 +78,7 @@ msgstr "Ultra alacsony 8x"
 
 msgid "Unknown level"
 msgstr "Ismeretlen szint"
+
+msgid "Your verified medals have been downloaded."
+msgstr "Az ellenőrzött medáljaidat letöltöttük."
 

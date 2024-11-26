@@ -13,11 +13,29 @@ msgstr "#ffff00ffOfficiele#ffffffff levels zijn door mij (JF) gemaakt, en staan 
 msgid "About the levels"
 msgstr "Over de levels"
 
+msgid "Apprentice"
+msgstr "Leerling"
+
+msgid "Cadet"
+msgstr "Normaal"
+
+msgid "Commander"
+msgstr "Commandant"
+
+msgid "Confirm email"
+msgstr "Bevestig email"
+
+msgid "Confirm email:"
+msgstr "Bevestig email:"
+
 msgid "Creating room"
 msgstr "Ruimte aan het creeëren"
 
 msgid "Directed by %s"
 msgstr "Gereggiseerd door %s"
+
+msgid "Emails do not match!"
+msgstr "Emails zijn niet hetzelfde!"
 
 msgid "Error reading manifest"
 msgstr "Gefaald om manifest te lezen"
@@ -28,6 +46,18 @@ msgstr "Experimenteel"
 msgid "Experimental levels"
 msgstr "Experimentele levels"
 
+msgid "Failed to set up comments"
+msgstr "Comments konden niet worden ingesteld"
+
+msgid "High Scores"
+msgstr "Top Scores"
+
 msgid "More info on github.com/jyaif/ppl-utils"
 msgstr "Meer informatie op github.com/jyaif/ppl-utils"
+
+msgid "Speed Runs"
+msgstr "Speed Runs"
+
+msgid "Your verified medals have been downloaded."
+msgstr "Je geverifieerde medailles zijn gedownload."
 

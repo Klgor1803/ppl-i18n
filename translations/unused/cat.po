@@ -1,0 +1,33 @@
+# The following translations are not in use anymore!
+# They are kept in case they are needed again later.
+
+msgid "Apprentice"
+msgstr "Aprenent"
+
+msgid "Cadet"
+msgstr "Cadet"
+
+msgid "Commander"
+msgstr "Comandant"
+
+msgid "Confirm email"
+msgstr "Confirmeu l'adreça de correu electrònic"
+
+msgid "Confirm email:"
+msgstr "Confirmeu el correu eletrònic:"
+
+msgid "Emails do not match!"
+msgstr "Les adreces de correu no coincideixen."
+
+msgid "Failed to set up comments"
+msgstr "Els comentaris no s'han pogut carregar."
+
+msgid "High Scores"
+msgstr "Millors puntuacions"
+
+msgid "Speed Runs"
+msgstr "Carreres de velocitat"
+
+msgid "Your verified medals have been downloaded."
+msgstr "S'han descarregat les vostres medalles verificades."
+

@@ -1,8 +1,35 @@
 # The following translations are not in use anymore!
 # They are kept in case they are needed again later.
 
+msgid "Apprentice"
+msgstr "Shogird"
+
+msgid "Cadet"
+msgstr "Zobit"
+
+msgid "Commander"
+msgstr "Qo'mondon"
+
+msgid "Confirm email"
+msgstr "Pochta manzili"
+
+msgid "Confirm email:"
+msgstr "Emailni tasdiqlash:"
+
+msgid "Emails do not match!"
+msgstr "Manzillar mos emas."
+
+msgid "Failed to set up comments"
+msgstr "Izohlarni o‘rnatib bo‘lmadi"
+
+msgid "High Scores"
+msgstr "Rekordlar"
+
 msgid "Joysticks"
 msgstr "Boshqaruv"
+
+msgid "Speed Runs"
+msgstr "Spidranlar"
 
 msgid "UI colors"
 msgstr "Interfeys rangi"
@@ -21,4 +48,7 @@ msgstr "Piksel 4x"
 
 msgid "Ultra low 8x"
 msgstr "Piksel 8x"
+
+msgid "Your verified medals have been downloaded."
+msgstr "Sizning tasdiqlangan medallaringiz saqlandi."
 

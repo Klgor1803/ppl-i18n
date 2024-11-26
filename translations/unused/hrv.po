@@ -19,8 +19,23 @@ msgstr "O levelima"
 msgid "All your medals are here."
 msgstr "Sve vaše medalje su ovdje."
 
+msgid "Apprentice"
+msgstr "Učenik"
+
+msgid "Cadet"
+msgstr "Kadet"
+
 msgid "Career"
 msgstr "Karijera"
+
+msgid "Commander"
+msgstr "Zapovjednik"
+
+msgid "Confirm email"
+msgstr "Potvrdi email"
+
+msgid "Confirm email:"
+msgstr "Potvrdi email:"
 
 msgid "Connect to..."
 msgstr "Spoji se na..."
@@ -43,6 +58,9 @@ msgstr "Tamno Visoko"
 msgid "Directed by %s"
 msgstr "Režirao %s"
 
+msgid "Emails do not match!"
+msgstr "Emailovi nisu jednaki!"
+
 msgid "Error reading manifest"
 msgstr "Greška čitanja manifesta"
 
@@ -55,11 +73,17 @@ msgstr "Eksperimentalni leveli"
 msgid "Failed to parse server response"
 msgstr "Neuspješna rasčlaniranje odgovora servera."
 
+msgid "Failed to set up comments"
+msgstr "Neuspješno postavljanje komentara"
+
 msgid "Game is full"
 msgstr "Igra je puna"
 
 msgid "High (Dark)"
 msgstr "Visoko (Tamno)"
+
+msgid "High Scores"
+msgstr "Najviši Rezultati"
 
 msgid "Information"
 msgstr "Informacije"
@@ -124,6 +148,9 @@ msgstr "Potvrda prijave"
 msgid "Sign-in with \"%s\"?"
 msgstr "Prijavi se sa \"%s\"?"
 
+msgid "Speed Runs"
+msgstr "Speedrunovi"
+
 msgid "The background is expensive to compute"
 msgstr "Pozadina je skupa za izračunavanje"
 
@@ -159,6 +186,9 @@ msgstr "Već si u igri!"
 
 msgid "You can finally code your own levels!"
 msgstr "Napokon možete kodirati svoje levele!"
+
+msgid "Your verified medals have been downloaded."
+msgstr "Vaše verificirane medalje su preuzete."
 
 msgid "by %s"
 msgstr "od %s"

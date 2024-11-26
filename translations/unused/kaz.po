@@ -4,8 +4,35 @@
 msgid "%s дәуірінің медальдары мен жұлдыздары"
 msgstr "Medallar va milod yulduzlari %s"
 
+msgid "Apprentice"
+msgstr "Шәкірт"
+
+msgid "Cadet"
+msgstr "Кадет"
+
+msgid "Commander"
+msgstr "командир"
+
+msgid "Confirm email"
+msgstr "Пошта адресі"
+
+msgid "Confirm email:"
+msgstr "Электрондық поштаны растау:"
+
+msgid "Emails do not match!"
+msgstr "Электрондық пошталар бірдей емес."
+
+msgid "Failed to set up comments"
+msgstr "Пікірлер орнатылмады"
+
+msgid "High Scores"
+msgstr "Жазбалар"
+
 msgid "Joysticks"
 msgstr "Басқару"
+
+msgid "Speed Runs"
+msgstr "Жылдамдар"
 
 msgid "UI colors"
 msgstr "Интерфейс түсі"
@@ -24,4 +51,7 @@ msgstr "Пиксель 4x"
 
 msgid "Ultra low 8x"
 msgstr "Пиксель 8x"
+
+msgid "Your verified medals have been downloaded."
+msgstr "Тексерілген медальдарыңыз сақталды."
 

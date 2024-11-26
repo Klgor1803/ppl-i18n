@@ -11,10 +11,32 @@
     ]
   },
   {
+    "english_name": "Catalan",
+    "code": "cat",
+    "emoji_flag": "🇦🇩",
+    "localized_name": "Català",
+    "translators": [
+      {
+        "name": "#00ff00ffJ0anJosep"
+      }
+    ]
+  },
+  {
     "english_name": "Dutch",
     "code": "nld",
     "emoji_flag": "🇳🇱",
-    "localized_name": "Dutch",
+    "localized_name": "Nederlands",
+    "translators": [
+      {
+        "name": "#00dd00ffhcr5"
+      }
+    ]
+  },
+  {
+    "english_name": "Estonian",
+    "code": "est",
+    "emoji_flag": "🇪🇪",
+    "localized_name": "Eesti",
     "translators": []
   },
   {
@@ -30,7 +52,7 @@
         "name": "#ff0da7ffAMPW"
       },
       {
-        "name": "#ff8800ffRandom #ffff00ffDoggo"
+        "name": "#00ffffffDoge#ff00ffffWave"
       }
     ]
   },
@@ -95,6 +117,9 @@
       },
       {
         "name": "#00ff00ffS#00ffffffk#0000ffffyn#00ffffffe#00ff00fft"
+      },
+      {
+        "name": "#ff0000ffF#ffffffffl#80ffffffa#00ffffffsher#008080ffø"
       }
     ]
   },
@@ -131,7 +156,7 @@
     "english_name": "Lithuanian",
     "code": "lit",
     "emoji_flag": "🇱🇹",
-    "localized_name": "Lietuviškai",
+    "localized_name": "Lietuvių",
     "translators": [
       {
         "name": "#ff0000ffSKPG#ffffffff-#0000ffffTech"
@@ -173,6 +198,9 @@
       },
       {
         "name": "MaxXP"
+      },
+      {
+        "name": "#2cff00ffKlgor#f1ff00ff1803"
       }
     ]
   },
@@ -206,6 +234,9 @@
     "translators": [
       {
         "name": "#ff9900ffAngel-24"
+      },
+      {
+        "name": "#ff8000ff*#ffff00ffS#ff8000ffø#ffff00ffū#ff8000ffk#ffff00ff*"
       }
     ]
   },
@@ -269,6 +300,17 @@
     "translators": [
       {
         "name": "#0000ffffAli2008uzb"
+      }
+    ]
+  },
+  {
+    "english_name": "Vietnamese",
+    "code": "vie",
+    "emoji_flag": "🇻🇳",
+    "localized_name": "Tiếng Việt",
+    "translators": [
+      {
+        "name": "#0000ffffHAPPY#0080ffffTUNE"
       }
     ]
   },
@@ -337,6 +379,9 @@
       },
       {
         "name": "#800000ffBlankEra"
+      },
+      {
+        "name": "#ff0000ffF#ffffffffl#80ffffffa#00ffffffsher#008080ffø"
       }
     ]
   },
@@ -348,6 +393,20 @@
     "translators": [
       {
         "name": "#ffffff80StellarIP"
+      },
+      {
+        "name": "#0080ffffF#00fffffflash#80ffffffe#ffffffffr#ff8000ffø"
+      }
+    ]
+  },
+  {
+    "english_name": "UwU",
+    "code": "uwu",
+    "emoji_flag": "🥰",
+    "localized_name": "#f8c8dcffUwU",
+    "translators": [
+      {
+        "name": "#404040ffd#808080ffot#ffffffffs"
       }
     ]
   }
